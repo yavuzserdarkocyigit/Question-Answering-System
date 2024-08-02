@@ -25,7 +25,7 @@ To use the question answering system, follow these steps:
 
 1. Open the Jupyter Notebook:
     ```sh
-    jupyter notebook question_answering_system_last.ipynb
+    jupyter notebook question_answering_last.ipynb
     ```
 2. Follow the instructions in the notebook to preprocess the data, train the model, and evaluate its performance.
 
